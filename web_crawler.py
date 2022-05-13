@@ -25,6 +25,7 @@ sleep(5)
 place = navegador.find_element(By.CSS_SELECTOR, '#typeahead_results > a:nth-child(6)')
 place.click()
 
+navegador.execute_script('window.scroll(0, 300)')
 sleep(8)
 
 site_content = navegador.page_source
