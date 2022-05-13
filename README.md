@@ -21,6 +21,6 @@ Caso já os tenha em sua maquina pode pular essa etapa
 # Utilizando o crawler
 
     • Utilizando uma IDE de sua preferência (Vscode, sublime text ou outro)
-    • Copie e cole todo o código disponível do crawler na sua IDE
+    • Copie e cole todo o código do web_crawler.py na sua IDE
     • Salve o arquivo como "crawler.py" sem as aspas
     • e execute.
