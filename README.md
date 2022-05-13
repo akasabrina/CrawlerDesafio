@@ -14,7 +14,7 @@ BEAUTIFUL SOUP: pip
 
     • instalação do pip no terminal(“pip install  bs4”)
 
-É extremamente importante que tudo esteja apropriadamente instalado pois é fundamental para o funcionamento do web crawler
+É extremamente importante que tudo esteja apropriadamente instalado, pois, é fundamental para o funcionamento do web crawler
 
 Caso já os tenha em sua maquina pode pular essa etapa
 
