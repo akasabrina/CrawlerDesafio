@@ -20,7 +20,7 @@ Driver - O driver utilizado é do chrome
 
 Bibliotecas
   1. Abra uma IDE (Vscode, sublime text ou outro)
-  2. No terminal da IDE digite "pip install -r requirements.txt" sem as aspas
+  2. No terminal da IDE digite "pip install -r requirements.txt" sem as aspas e execute
 
 É extremamente importante que tudo esteja apropriadamente instalado, pois, é fundamental para o funcionamento do web crawler!!!
 
