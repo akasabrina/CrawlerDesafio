@@ -31,8 +31,7 @@ Bibliotecas
    3. Em ajuda, clique no "Sobre o Google Chrome"
     
 # Utilizando o crawler
-   1. O driver utilizado é do chrome
-   2. Utilizando uma IDE de sua preferência (Vscode, sublime text ou outro)
-   3. Copie e cole todo o código do web_crawler.py na sua IDE
-   4. Salve o arquivo como "crawler.py" sem as aspas
-   5. e execute.
+   1. Utilizando uma IDE de sua preferência (Vscode, sublime text ou outro)
+   2. Copie e cole todo o código do web_crawler.py na sua IDE
+   3. Salve o arquivo como "crawler.py" sem as aspas
+   4. e execute.
